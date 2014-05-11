@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bootstrap-additions</artifactId>
-    <version>0.2.2</version>
+    <version>0.2.3-SNAPSHOT</version>
     <name>BootstrapAdditions</name>
     <description>WebJar for BootstrapAdditions</description>
     <url>http://webjars.org</url>
@@ -45,7 +45,7 @@
         <url>http://github.com/webjars/bootstrap-additions</url>
         <connection>scm:git:https://github.com/webjars/bootstrap-additions.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bootstrap-additions.git</developerConnection>
-        <tag>bootstrap-additions-0.2.2</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
